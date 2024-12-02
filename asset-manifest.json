@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Netflix-clone-with-react-lecture/static/css/main.fbae345d.css",
+    "main.js": "/Netflix-clone-with-react-lecture/static/js/main.52383e55.js",
+    "static/js/453.4d78b4ad.chunk.js": "/Netflix-clone-with-react-lecture/static/js/453.4d78b4ad.chunk.js",
+    "index.html": "/Netflix-clone-with-react-lecture/index.html",
+    "main.fbae345d.css.map": "/Netflix-clone-with-react-lecture/static/css/main.fbae345d.css.map",
+    "main.52383e55.js.map": "/Netflix-clone-with-react-lecture/static/js/main.52383e55.js.map",
+    "453.4d78b4ad.chunk.js.map": "/Netflix-clone-with-react-lecture/static/js/453.4d78b4ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbae345d.css",
+    "static/js/main.52383e55.js"
+  ]
+}
