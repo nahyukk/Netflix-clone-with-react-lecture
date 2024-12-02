@@ -2,7 +2,7 @@
   "name": "react-netflix-clone",
   "version": "0.1.0",
   "private": true,
-	"homepage": "https://nahyukk.github.io/React-netflix-clone-from-lecture",
+	"homepage": "https://nahyukk.github.io/Netflix-clone-with-react-lecture",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

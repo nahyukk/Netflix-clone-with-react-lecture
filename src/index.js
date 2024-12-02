@@ -7,7 +7,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter basename='React-netflix-clone-from-lecture'>
+  <BrowserRouter basename='Netflix-clone-with-react-lecture'>
     <App />
   </BrowserRouter>
 );
